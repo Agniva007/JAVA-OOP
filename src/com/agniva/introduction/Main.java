@@ -27,7 +27,7 @@ public class Main {
         Student rai = new Student(18, "Rai", 90.3f);
 
 //        agni.rno = 13;
-//        agni.name = "Kunal Kushwaha";
+//        agni.name = "Agniva Das";
 //        agni.marks = 88.5f;
 
 
